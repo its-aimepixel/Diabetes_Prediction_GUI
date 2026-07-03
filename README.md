@@ -20,3 +20,16 @@ Logistic Regression
 
 ## Author
 Aiman Abidi
+
+## Features
+- Predicts Diabetes using Logistic Regression
+- Takes user input
+- Displays prediction result
+- Loads a pre-trained model
+
+## Project Enhancements
+- Added Graphical User Interface (GUI) using Tkinter
+- User-friendly input fields
+- Predict button for instant prediction
+- Machine Learning model integration
+- Real-time diabetes prediction
